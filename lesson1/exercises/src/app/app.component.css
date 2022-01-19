@@ -1,0 +1,7 @@
+.container {
+    background-color: azure;
+}
+
+.col-3 {
+    outline: 2px dotted blue;
+}
